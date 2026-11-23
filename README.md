@@ -2,7 +2,7 @@ The whole activity uses this one file. Replace Team Name with a name for your pa
 # Team Name
 Lithiumates
 ## About
-This repository is for our branching and merge conflict activity.
+My course is ComSci, I'm from lithium, and my instructor is sir Kyle
 ## Members
 | Name | Role | GitHub Username |
 | ---- | ---- | --------------- |
