@@ -6,6 +6,6 @@ This repository is for our branching and merge conflict activity.
 | Name | Role | GitHub Username |
 | ---- | ---- | --------------- |
 | Krisha Inocente | Student A | [@monikrii](https://github.com)
-| Kateleen Calugay | Student B [@aterpillar](https://github.com)
+| Kateleen Calugay | Student B | [@katerpillar](https://github.com)
 ## Contact
 Ask us questions through the Issues tab.
