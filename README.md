@@ -1,6 +1,12 @@
 The whole activity uses this one file. Replace Team Name with a name for your pair.
 # Team Name
 Lithiumates
+- [About](#about)
+- [Members](#members)
+- [Tools We Use](#tools-we-use)
+- [Meeting Schedule](#meeting-schedule)
+- [Contact](#contact)
+- [Learning Goals](#learning-goals)
 ## About
 My course is Comsci, I'm a grade nine scholar in lithium, and my instructor is sir Kyle
 ## Members
