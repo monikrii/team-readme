@@ -14,4 +14,8 @@ Ask us questions through the Issues tab.
 - Learn how to make a **collaboration project** using Git
 - Learn how to **fix conflicts**
 - Learn and understand the **different functions** of Git
-  
+## Tools We Use
+- **GitHub** - for hosting our repository, branches, and pull requests
+- **Git** - for version control and resolving merge conflicts
+- **Visual Studio Code** - for editing README.md and previewing markdown
+
