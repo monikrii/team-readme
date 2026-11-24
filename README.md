@@ -2,7 +2,7 @@ The whole activity uses this one file. Replace Team Name with a name for your pa
 # Team Name
 Lithiumates
 ## About
-I am a grade 9 scholar from lithium
+My course is Comsci, I'm a grade nine scholar in lithium, and my instructor is sir Kyle
 ## Members
 | Name | Role | GitHub Username |
 | ---- | ---- | --------------- |
