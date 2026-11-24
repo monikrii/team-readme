@@ -2,7 +2,7 @@ The whole activity uses this one file. Replace Team Name with a name for your pa
 # Team Name
 Lithiumates
 ## About
-I am a grade 9 scholar
+I am a grade 9 scholar from lithium
 ## Members
 | Name | Role | GitHub Username |
 | ---- | ---- | --------------- |
