@@ -8,6 +8,11 @@ My course is Comsci, I'm a grade nine scholar in lithium, and my instructor is s
 | ---- | ---- | --------------- |
 | Krisha Inocente | Student A | [@monikrii](https://github.com)
 | Kateleen Calugay | Student B | [@katerpillar](https://github.com)
+## Meeting Schedule
+| Day | Time | Activity |
+| --- | --- | --- |
+| Monday | 4:30 PM – 5:30 PM | Git activity & PR review |
+| Wednesday | 4:30 PM – 5:00 PM | Quick check-in & conflict fix |
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
